@@ -22,4 +22,12 @@ I am Alice, hear me ROAAAAAAR!
 
 Carol hates github
 
-Add commit PUSH! 
+
+Add commit PUSH!
+
+
+Get it together Carol!
+
+Ted likes nunchucks and computer hacking skills.
+
+Carol loves github, carol's losing her shit.
