@@ -21,3 +21,5 @@ Ted again, I hope this works...
 I am Alice, hear me ROAAAAAAR!
 
 Carol hates github
+
+Ted likes nunchucks and computer hacking skills.
