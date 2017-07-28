@@ -23,7 +23,10 @@ I am Alice, hear me ROAAAAAAR!
 Carol hates github
 
 
+Get it together Carol! 
+=======
 Ted likes nunchucks and computer hacking skills.
 
 Carol loves github, carol's losing her shit.
+
 
