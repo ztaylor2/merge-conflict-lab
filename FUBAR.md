@@ -40,10 +40,11 @@ this master
 
 ## bob! fuck yeah!
 
-Carol dislikes change. 
+Carol dislikes change.
 
 
 Carol dislikes change.
 
-ted is out here doin stuff and making changes 
+ted is out here doin stuff and making changes
 
+ted/zach is in master and going to commit this which should conflict with the other commit that is also in master 
